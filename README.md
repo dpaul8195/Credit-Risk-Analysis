@@ -55,6 +55,10 @@ Trained and compared multiple machine learning algorithms:
 
 ---
 
+## Run
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dpaul8195/Credit-Risk-Analysis/blob/main/CreditRiskModelling.ipynb)
+---
+
 ## 📈 Results  
 - **Random Forest** and **XGBoost** emerged as the best-performing models.  
 - Random Forest achieved **93% accuracy**, robustly handling class imbalance.  
